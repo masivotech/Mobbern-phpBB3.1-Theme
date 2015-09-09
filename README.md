@@ -39,10 +39,8 @@ Furthermore it ensures backwards compatibility to old browsers.
    + 4 Columns Footer
    + Footer with space for Ads
    + Minimal Footer
-   + Fast and Clean
-   + Unique Modern Flat Design
-   + Mega Menu
-6. Special Effects:
+6. Mega Menu
+7. Special Effects:
    + CSS3: Animated Search Input in the Navbar
    + CSS3: Animated Back-to-Top button in the Footer
    + jQuery: Smooth Back-to-Top Scroll Animation
@@ -52,5 +50,5 @@ Furthermore it ensures backwards compatibility to old browsers.
    + Header Slider Carousel
    + Modern Checkboxes and Radio Buttons
    + Nice Modern Scrollbar
-   + Comprehensive Documentation
-   + Structured, Valid and Commented HTML, CSS. Error-Free JavaScript & jQuery Code
+   + Structured, Valid and Commented HTML, CSS.
+   + Error-Free JavaScript & jQuery Code
